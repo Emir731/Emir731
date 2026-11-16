@@ -25,7 +25,7 @@ Conducted two research projects related to bodybuilding and resistance training,
 
 - [Training Volume and Hypertrophy](https://github.com/Emir731/training-volume-hypertrophy)
 - [Training to Failure vs. Reps in Reserve](https://github.com/Emir731/training-failure-vs-rir-hypertrophy)
-- [Hyperia Discord Bot](https://github.com/Emir731/Hyperia)
+- [Hyperia Caspian Watch](https://github.com/MUSA-ANN1/DancingWithTheSARs)
 
 ## Achievements & Certificates
 
