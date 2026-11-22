@@ -23,6 +23,11 @@ I designed a full-size helicopter concept and built a smaller prototype. I also 
 ### Hyperia Discord bot
 I created Hyperia in 2021 and developed it into a Discord bot used across more than 50 servers, with over 200,000 users and 110+ commands at its peak. The original source code is no longer available.
 
+### Dancing with the SARs
+A NASA Space Apps Challenge 2026 project I developed together with Musa Annagulyyev as part of Team Hyperia. The project explores Caspian Sea coastal observations using NISAR satellite data. Its processing pipeline searches for compatible radar acquisitions, creates before-and-after mosaics, and produces experimental coastal-change screening layers for an interactive 3D globe. These outputs are exploratory and are not treated as validated shoreline measurements.
+
+[View the project](https://github.com/MUSA-ANN1/DancingWithTheSARs) · [Open the website](https://musa-ann1.github.io/DancingWithTheSARs/)
+
 ## Independent research
 
 I work on research questions in resistance training and muscle hypertrophy. My two current projects examine training volume and the effects of training to failure compared with stopping sets with repetitions in reserve.
